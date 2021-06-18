@@ -2,7 +2,6 @@
 layout: post
 title:  "The Great Migration"
 date:   2021-06-18 12:34:46 +0000
-categories: jekyll update
 ---
 
 I am in process of migrating my blog.

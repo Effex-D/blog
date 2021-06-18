@@ -2,7 +2,6 @@
 layout: post
 title:  "Why Jekyll?"
 date:   2021-06-18 13:34:46 +0000
-categories: jekyll update
 ---
 
 One of my favourite things about Jekyll so far is the ability to post straight from my command line. No weird user-interface that posts to DBs. I understand why those exist. My wife has a blog, and she wouldn't be able to use a CLI to make posts.
