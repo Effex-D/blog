@@ -9,7 +9,7 @@ Okay, solved that issue. Turns out I needed to include the baseurl in the part o
 
 This happens a lot in IT. IT is basically just smacking your head against a problem until the problem breaks. Or your head does. But when studying, they don't *tell* you this is what IT is. They give you neat little CompSci problems that have neat little outcomes that make you go "Cool I made a thing, look mom."
 
-I think it's the reason I have imposter syndrome. It doesn't matter how many years I*m in the field, or how many people tell me I'm doing a good job, I never feel quite like I belong. Like I'm just pretending I know what I'm doing, and by this point I've learned enough to fake it **really** well.
+I think it's the reason I have imposter syndrome. It doesn't matter how many years I'm in the field, or how many people tell me I'm doing a good job, I never feel quite like I belong. Like I'm just pretending I know what I'm doing, and by this point I've learned enough to fake it **really** well.
 
 Don't fall victim to it like I did.
 
