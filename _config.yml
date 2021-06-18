@@ -1,5 +1,6 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: A Blog?
+description: A blog to end all blogs?
+baseurl: "/blog"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
