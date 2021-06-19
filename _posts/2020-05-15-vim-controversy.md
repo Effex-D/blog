@@ -5,13 +5,13 @@ date:   2020-05-15 14:34:46 +0000
 author: Effex
 ---
 
-I understand this is going to be a somewhat divisive topic. Vim is something akin to Marmite. You either love it or you hate it. Only that's not entirely true. It's more like an one-sided relationship. Vim is something exciting and unapproachable. You start to work with it. Devote hours and hours of your time to learning its quirks and oddities, and in the end, how are you repaid?
+I understand this is going to be a somewhat divisive topic. Vim is something akin to Marmite. You either love it or you hate it. Only that's not entirely true. It's more like a one-sided relationship. Vim is something exciting and unapproachable. You start to work with it. Devote hours and hours of your time to learning its quirks and oddities, and in the end, how are you repaid?
 
 You get to use a text editor.
 
 For the less technically minded people, let's start our discussion with text editors. What are they. Most of you can press your windows key and type "notepad" and bring one up. To shamelessly pilfer from Wikipedia:
 
-A text editor is a type of computer program that edits plain text. Such programs are sometimes known as "notepad" software, following the naming of Microsoft Notepad. Text editors are provided with operating systems and software development packages, and can be used to change files such as configuration files, documentation files and programming language source code.
+> A text editor is a type of computer program that edits plain text. Such programs are sometimes known as "notepad" software, following the naming of Microsoft Notepad. Text editors are provided with operating systems and software development packages, and can be used to change files such as configuration files, documentation files and programming language source code.
 
 If I might append a little something: Text editors are the most basic of systems on your PC. And lots of nerds swear by them. It's why there's such a hot debate over which editor is the best, and everyone has their own horse in the race. A race in which there is no prize.
 
