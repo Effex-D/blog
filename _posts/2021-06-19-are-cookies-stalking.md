@@ -25,7 +25,7 @@ If you're lucky enough to live in the EU, one of the few entities with the means
 
 It's a great idea, in theory. In practice what it did was cripple the internet for millions of Europeans.
 
-Every time someone in Europe visits a website in modern times, they're assaulted by a permissions request. Some of these are well made and give two clear options. "I consent to cookies tracking" or "I do not consent."
+Every time someone in Europe visits a website in modern times, they're assaulted by a permissions request. Some of these are well made and give two clear options. "I consent to cookies, tracking and otherwise" or "I do not consent."
 
 Others are still more sensible, giving the option to only consent to 'required' cookies like the Authentication cookies we've discussed earlier.
 
