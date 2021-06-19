@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interpreting Ignorance"
-date:   2021-04-09 14:34:46 +0000
+date:   2020-04-09 14:34:46 +0000
 author: Effex
 ---
 
