@@ -25,10 +25,12 @@ This is logging the hangover from the day after Midsummer's Eve.
 
 ```
 9:30 - Wake up, attempt breakfast. Cereal. Drink 1.5l of water. Ignore headache.
-10:30 - Realise I agreed to go boating with father-in-law. Still hungry. Crawl to store for sandwich and powerade.
+10:30 - Realise I agreed to go boating with father-in-law. Still hungry. 
+10:32 - Crawl to store for sandwich and powerade.
 10:40 - Powerade out. Take last bottle of Gatorade instead.
-10:55 - Eat sandwich on boat. Drink powerade. Head out to see.
-12:30 - Return from sea. Sea air, isotonic sports drink and sandwich solved hangover. Still hungry though.
+10:55 - Eat sandwich on boat. Drink powerade. Head out to sea.
+12:30 - Return from sea. Sea air, isotonic sports drink and sandwich solved hangover. 
+12:31 - Still hungry though.
 12:35 - Eat leftover salads and meat from BBQ
 14:00 - Resumed normal day. Guard lowered. Mistake.
 15:00 - Hangover headache returns, and VENGEANCE BURNS.
