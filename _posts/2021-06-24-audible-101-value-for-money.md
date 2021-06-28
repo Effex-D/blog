@@ -15,7 +15,7 @@ For people who have been a member of Audible for some time, these credits have a
 
 Firstly: A little Audible URL magic.
 
-See, if you go to audible.com, you'll find as basic a browsing library as you can expect. It does the job, though is a little bit uninspired. A better place to go is the [advanced search](audible.com/advsr) which will let you be a lot more specific.
+See, if you go to audible.com, you'll find as basic a browsing library as you can expect. It does the job, though is a little bit uninspired. A better place to go is the [advanced search](https://audible.com/advsr) which will let you be a lot more specific.
 
 However, there's something more we can do. Do a blank search and your URL bar will look something like this:
 
@@ -70,4 +70,4 @@ There's also Sherlock Homles: The Definitive Collection, narrated by Steven Fry 
 
 10 Masterpieces You Have to Read Before You Die 1 is hell of a convoluted title, but does contain classics. Jane Austen's complete works, Mark Twain's Complete works, George Orwell,  Shakespeare. Even the bible, if you're that way inclined. 
 
-In short, aim for authors, not books. Classics, rather than modern works. Lots of their work falls into the public domain, which made it freely available for narrators and gives a great deal of choice and value. Though technically a lot of these can be found free on Librivox, so keep that in mind.)
+In short, aim for authors, not books. Classics, rather than modern works. Lots of their work falls into the public domain, which made it freely available for narrators and gives a great deal of choice and value. Though technically a lot of these can be found free on [Librivox](https://librivox.org), so keep that in mind.
