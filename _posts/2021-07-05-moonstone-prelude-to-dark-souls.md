@@ -19,13 +19,13 @@ Also, the gameplay itself is not only wildly gory but utterly and brutally diffi
 
 It is a well-made, enjoyable and very replayable game. But that's not all. Because I play a lot of games, and I don't tend to write about them here.
 
-What prompted me to write this blog was another website I found, when looking up information from the game, called (The Moonstone Tavern.)[http://moonstonetavern.co.uk/]
+What prompted me to write this blog was another website I found, when looking up information from the game, called [The Moonstone Tavern.](http://moonstonetavern.co.uk/)
 
 Visiting this website was like stepping back in time. And I mean that in the best possible way. This was the internet I grew up with. There's not an ad in sight. No prompt for cookies. It's not trying to track me at all. Why would it? It follows the traditional internet model of "I am a repository of information. Browse me."
 
 This site, originally built in 2002, is a prime example of the internet I miss. People pursuing their passions, and sharing their findings with whomsoever happens to stumble across them.
 
-If you're looking for something to kill a few days over the summer holiday, you can get the game (here)[https://www.gog.com/game/moonstone_a_hard_days_knight] for a very reasonable price. And when you do, why not head over to the Moonstone Tavern to learn about the game that will spend the next several days kicking your ass.
+If you're looking for something to kill a few days over the summer holiday, you can get the game [here](https://www.gog.com/game/moonstone_a_hard_days_knight) for a very reasonable price. And when you do, why not head over to the Moonstone Tavern to learn about the game that will spend the next several days kicking your ass.
 
 
 
