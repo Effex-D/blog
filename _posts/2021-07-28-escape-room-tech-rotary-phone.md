@@ -15,7 +15,7 @@ One idea I had was to repurpose an old rotary phone.
 
 And here's the phone:
 
-<image missing. eff should do something about that.>
+... I don't have a pic yet.
 
 I ripped out the original PCB. The phone itself is from the 60s, so the PCB was thick, brown. Looked handmade. The tracks were very visible and components were attached with screws. Quite different from modern devices, but it was interesting to see.
 
@@ -23,7 +23,7 @@ Inside the phone, there were two things I was interested in attaching to a Raspb
 
 The hook switch is a complicated device, as demonstrated by the original wiring schematic:
 
-<image missing here, too. lazy dev>
+Image missing here, too. lazy dev
 
 But I didn't really care about any of that. I was interested in two things: whether the hook switch was down, indicating the handset was in resting position, or up, handset having been lifted. From the ~11 terminals attached to the hook switch, I identified two of them that would let me know all this information, soldered a couple of wires to them and connected them to the Raspberry Pi's GPIO. Easy.
 
