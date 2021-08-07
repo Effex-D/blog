@@ -9,7 +9,7 @@ I'm something of a recluse. And Covid has done nothing to improve the situation.
 
 Here is a log of my conversations over the last week.
 
-´´´
+```
 Tuesday:
 
 @Lunch: "One lunch please. Thanks."
@@ -33,7 +33,7 @@ Saturday:
 @GroceryStore: "Thanks."
 @SushiPlace: "Thanks."
 
-´´´
+```
 
 I'm a grown man, in my thirties, who has spoke exactly 24 words since Monday evening.
 
