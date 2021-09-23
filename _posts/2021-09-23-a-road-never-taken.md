@@ -29,7 +29,7 @@ EFCDE
 
 Which sounds something like this.
 
-![First Idea](/blog/assets/noise/DR_Initial.wav)
+[First Idea](/blog/assets/noise/DR_Initial.wav). Linked because I haven't figured out to embed in Jekyll.
 
 This would give me the basis for what I would write.
 
@@ -47,7 +47,7 @@ Next off: I didn't like ending on the E. E is, in my opinion, a somewhat hard no
 
 Here it is so far:
 
-![First Idea](/blog/assets/noise/DR_Mid.wav)
+[Mid Progress](/blog/assets/noise/DR_Mid.wav)
 
 It is progressing, but still far off the 8 second requirement. Though there is a simple solution to this. Lead in with some arpeggio chords in C. The C chord is C-E-G, but I drop the E so I can fit 4 quarter notes over two octaves in a single bar to maintain my expected 4/4 time signature.
 
@@ -57,7 +57,7 @@ That gives us my finished jingle:
 
 ![The Sheets](/blog/assets/images/sheets.jpg)
 
-![First Idea](/blog/assets/noise/DR_Final.wav)
+[The Completed Entry](/blog/assets/noise/DR_Final.wav)
 
 ## A Glimpse Down The Other Path.
 
