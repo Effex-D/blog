@@ -15,7 +15,7 @@ But that led to the question: Where to begin?
 
 Nominative determinism is the hypothesis that people tend to gravitate towards areas of work that fit their names. Examples of this include Archaeologist Dr Pam Graves, the BBC weather reporter Sara Blizzard and my personal favourite: Wilbur Ulysses Bookendorf, Librarian.
 
-But what I want to consider here is something sligtly different. Nominative Auditory Determinism. Can a subject's name determine its own ideal theme music? I ask this, because of what immediately struck me from the name of the company.
+But what I want to consider here is something slightly different. Nominative Auditory Determinism. Can a subject's name determine its own ideal theme music? I ask this, because of what immediately struck me from the name of the company.
 
 ```
 Eficode.
@@ -71,6 +71,6 @@ I believe there are two kinds of people in the world. There are those who know w
 
 At the age of 16, I'd finished my GCSE studies in the UK. Among the subjects I studied were of course Math and Advanced IT, but also Music. I didn't study for performance, but to learn more about composition.
 
-The choice I had to make was this: Continue my studies in IT, leaving music for an occasional pastime. Or pursue a career in Music, with IT as the hobby. In the end, I took what I considered the safer path. It was 2005, the prevelance of computers was booming, as was the competition for the few musical jobs out there. This path took me through university, into the IT Sector, into DevOps and finally caused me to cross paths with Eficode. 
+The choice I had to make was this: Continue my studies in IT, leaving music for an occasional pastime. Or pursue a career in Music, with IT as the hobby. In the end, I took what I considered the safer path. It was 2005, the prevalence of computers was booming, as was the competition for the few musical jobs out there. This path took me through university, into the IT Sector, into DevOps and finally caused me to cross paths with Eficode. 
 
 Back when I was 16, the paths I had to choose from looked like they went in opposite directions, like they'd never converge again. But paths are winding, and they lead us to strange places. Here, if just for a moment, they came close enough for me to stand on one side, and see how things might look from the other.
