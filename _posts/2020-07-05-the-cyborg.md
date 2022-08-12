@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Cyborg"
 date:   2020-07-05 14:34:46 +0000
 author: Effex

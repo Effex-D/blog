@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Sans Tracking"
 date:   2021-03-31 14:34:46 +0000
 ---

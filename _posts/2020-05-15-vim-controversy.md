@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Controvery: Vim sucks"
 date:   2020-05-15 14:34:46 +0000
 author: Effex

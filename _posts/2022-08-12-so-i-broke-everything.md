@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "So I broke everything."
 date: 2022-08-12 00:00:00
 author: Effex

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Pulling Teeth"
 date:   2021-06-18 15:34:46 +0000
 author: Effex

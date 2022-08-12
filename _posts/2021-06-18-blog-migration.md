@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Great Migration"
 date:   2021-06-18 12:34:46 +0000
 ---

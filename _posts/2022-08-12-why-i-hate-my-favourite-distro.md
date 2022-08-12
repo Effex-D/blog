@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Why I hate my favourite distro"
 date: 2022-08-12 00:03:00
 author: Effex

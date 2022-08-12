@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Github Pages + Jekyll woes. Again."
 date: 2022-08-12 00:02:00
 author: Effex

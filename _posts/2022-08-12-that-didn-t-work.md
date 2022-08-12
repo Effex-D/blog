@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "That didn't work"
 date: 2022-08-12 00:01:00
 author: Effex

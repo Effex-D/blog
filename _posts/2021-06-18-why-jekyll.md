@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Why Jekyll?"
 date:   2021-06-18 13:34:46 +0000
 ---

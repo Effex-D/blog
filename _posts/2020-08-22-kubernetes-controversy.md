@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kubernetes Controversy"
 date:   2020-08-22 14:34:46 +0000
 author: Effex

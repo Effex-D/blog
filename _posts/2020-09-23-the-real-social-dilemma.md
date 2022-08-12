@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Real Social Dilemma"
 date:   2020-09-23 14:34:46 +0000
 author: Effex
