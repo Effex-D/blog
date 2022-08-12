@@ -3,4 +3,4 @@ description: Spectator-mode Notepad
 baseurl: "/blog"
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
+theme: minima
