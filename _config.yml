@@ -6,6 +6,7 @@ google_analytics:
 #theme: jekyll-theme-midnight
 #remote_theme: sujaykundu777/devlopr-jekyll
 #remote_theme: b2a3e8/jekyll-theme-console
-remote_theme: onepase/Ephesus
+#remote_theme: onepase/Ephesus
+remote_theme: flancast90/Millidocs-Dark
 
 
