@@ -1,6 +1,6 @@
 ---
 title: "Well that's over"
-date: 2022-08-12
+date: 2022-08-12 00:10:00
 author: Effex
 tags: []
 ---
