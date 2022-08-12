@@ -3,5 +3,5 @@ description: Spectator-mode Notepad
 baseurl: "/blog"
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-midnight
-#remote_theme: cotes2020/jekyll-theme-chirpy
+#theme: jekyll-theme-midnight
+remote_theme: cotes2020/jekyll-theme-chirpy
