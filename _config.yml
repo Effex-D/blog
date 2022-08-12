@@ -5,5 +5,5 @@ show_downloads: true
 google_analytics:
 #theme: jekyll-theme-midnight
 #remote_theme: cotes2020/jekyll-theme-chirpy
-remote_theme: sujaykundu777/devlopr-jekyll
-
+#remote_theme: sujaykundu777/devlopr-jekyll
+remote_theme: b2a3e8/jekyll-theme-console
