@@ -1,7 +1,7 @@
 title: Log of E
 description: Spectator-mode Notepad
 baseurl: "/blog"
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
 #remote_theme: sujaykundu777/devlopr-jekyll
