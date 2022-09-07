@@ -28,8 +28,10 @@
           <p>
           <hr>
         </div>
-
-        <h2>{{ post.title | default: "?" }}</h2>
+        
+        <h2>{{ title | default: "?" }}</h2>
+        <h2>{{ page.title | default: "Page" }}</h2>
+        <h2>{{ post.title | default: "Post" }}</h2>
      
         {{ content }}
 
