@@ -4,7 +4,7 @@ layout: default
 
 <h1>Recent Posts</h1>
 
-Or browse all of the entries [here](./posts).
+Or browse all of the entries [here](/posts).
 
 <ul>
   {% for post in site.posts limit:10 %}
