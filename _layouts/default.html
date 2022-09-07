@@ -27,6 +27,9 @@
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
         </div>
+        
+        {% if page.layout == 'post' %}
+          {{ page.title }}
 
         {{ content }}
 
