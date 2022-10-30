@@ -9,9 +9,9 @@ Today I want to discuss one of the largest problems facing the world of security
 
 Sensationalist reporting in Infosec.
 
-SOMETHING ABOUT NEWS IN INFOSEC
+Over the past years, reporting in Infosec has started to follow the same general path as reporting in general. Factual information is hidden behind problematic communication. Professionalism has vanished and been replaced by a sort of frantic nervousness that explodes with every new notifcation.
 
-Infosec reporting is driven by the same click-based metrics as all other reporting standards. Funnel traffic to the site, get clicks, get ad-revenue. News sites are operated as businesses, which tend towards poor business practices. The general air of concern about information security amplifies the effect, and we get situations like the two I am going to discuss today.
+The core of the problem is this: Infosec reporting is driven by the same click-based metrics as all other reporting standards. Funnel traffic to the site, get clicks, get ad-revenue. News sites are operated as businesses, which tend towards poor business practices. The general air of concern about information security amplifies the effect, and we get situations like the two I am going to discuss today.
 
 ### Log4Shell, Spring4Shell and Text4Shell
 
