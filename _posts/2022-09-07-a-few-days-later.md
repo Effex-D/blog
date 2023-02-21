@@ -5,7 +5,7 @@ author: Effex
 tags: []
 ---
 
-After the disappointment of the first day, I came to the table bright-eyed and bushy tailed for the second day which was much the same. Though it's not a particularly bad thing that the group is filled with Finns. This is Finland, and it makes sense that Finns would comprise the majority of the group. It's just not what I was expecting.
+After the disappointment of the first day, I came to the table bright-eyed and bushy tailed for the second day which was much the same. Though it's not a particularly bad thing that the group is filled with <Natives>. This is <Country>, and it makes sense that <Natives> would comprise the majority of the group. It's just not what I was expecting.
 
 When I dropped my expectations, things seemed better. The group is made of generally sensible people, myself excluded. There's a wide range of both security knowledge and general experience, which is certainly a more diverse group than 35 supernerds sitting in the same room.
 
