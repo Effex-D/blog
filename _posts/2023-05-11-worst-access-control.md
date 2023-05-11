@@ -33,7 +33,7 @@ These access codes are typically 4-6 digits long, and have been since their inve
 
 When talking about password strength (because these keypads are just using pre-shared passwords) most reliable sources, as well as the internet comic we're actually going to cite, suggest that length is better than entropy.
 
-XKCD reference
+![Length>Entropy](https://imgs.xkcd.com/comics/password_strength.png)
 
 So clearly a better approach would be to use a much longer password. For example, 30-50 characters would give between 1e+30 and 1e+50 potential combinations. Which would be much harder for an unscrupulous person to hack. Which is good for an access control system. And wildly inconvenient for the person who has to stand there and enter their 46 digit code. And woe betide whoever happens to forget it.
 
@@ -155,7 +155,7 @@ While GPS is a widely used and reliable technology, it does have some limitation
 
 Physical location is easy to track, if we just attach a GPS module to our micro control and set the required location. For my purposes, I have chosen that, in order to open the briefcase, the user trying to authenticate must be no more than 4 meters from this random statue:
 
-<statue>
+![statue](/blog/assets/images/statue.jpg)
 
 ## Our final system
 
