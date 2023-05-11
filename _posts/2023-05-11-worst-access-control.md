@@ -135,7 +135,7 @@ During the process, the person performing the unlocking would be required to ext
 
 Unfortunately, with such sampling machines costing in excess of twenty thousand euros, it was deemed slightly out of the "Whatever is in my wallet" budget of this project.
 
-## A more practical third property: Physical location.
+## A more practical third property: Physical position.
 
 Access control systems can be applied to many things. A physical location is typical, but an object is also valid. If I apply the current access control system as the locking mechanism for a briefcase, it opens up another possibility.
 
