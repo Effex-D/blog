@@ -3,12 +3,6 @@ description: Spectator-mode Notepad
 baseurl: "/blog"
 show_downloads: false
 google_analytics:
-theme: minima
-minima:
-  skin: dark
-#remote_theme: sujaykundu777/devlopr-jekyll
-#remote_theme: b2a3e8/jekyll-theme-console
-#remote_theme: onepase/Ephesus
-#remote_theme: flancast90/Millidocs-Dark
+theme: jekyll-theme-midnight
 
 
