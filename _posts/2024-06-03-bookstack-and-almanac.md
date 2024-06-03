@@ -12,15 +12,17 @@ And it's pretty much my fault. I built the blog using github pages with Jekyll b
 It was simple, really. Required no database, had posts as files. But it became... complex. Not the system itself, but the workflow of the system Here's how my typical blog post flow goes:
 
 1) Create blog post using script which creates an md file in the posts folder.
-2) Add the newly created file to the git repo
+2) Add the newly created file to the git repo.
 3) Open the created file in a text editor and write the post in .md format.
-4) Save the file.
+4) Save the file and add the changes to git repo.
 5) Commit the changes to the git repo.
 6) Push the changes to git source origin on Github
 7) Wait for the pipeline in Github to push the changes to the page.
 8) Notice an error in the page, return to step 3 to correct.
 9) Repeat steps 3-8 approximately 5 times.
 10) Admire blog post.
+
+Parts of this are even slowed down by the fact that only *recently* I activated SSH pushes to Github, so had to input a password, and later an access token, to get my posts to where they needed to go.
 
 This is not a convenient workflow, and I wonder how much of my malaise about blogging comes from this work flow. It's impossible to enter the "flow state" of actually writing when the process is punctuated in such a way. As someone who has written, and as someone who has coded, writing should not be treated as code.
 
@@ -45,6 +47,6 @@ They're all evil.
 
 But it leans into an earlier post, where i have the "almanac." A collection of my thoughts, my experiences, my knowledge, on whatever subject I choose to share, that can be browsed at will by anyone who feels the particular need.
 
-Anyway, I'm going to do some thinking of this, figuring out a way to plan the system so that it scales to my needs.
+Anyway, I'm going to do some thinking of this, figuring out a way to plan the system so that it scales to my needs. Which I know I could have done with this blog with tagging in the meta data but it always seemed like an aside. It's something to do later, instead of Bookstack which requires the structure up front. So I'm going to try a migration. Probably.
 
 And if I don't post again... I guess you know why.
